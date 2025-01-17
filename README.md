@@ -12,7 +12,8 @@ Repositório para arnmazenar resumos sobre Git e GitHub  da [DIO](https://www.di
 
 | Aulas | Resumos |
 |------|---------|
-| Gravando Alterações no Repositório Local | [Resumos]() |
+| Aula 1| [Resumos]() |
+| Aula 2| [Resumos]() |
 
 ```
 git init
